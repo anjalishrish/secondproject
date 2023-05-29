@@ -1,0 +1,10 @@
+
+3 ways to add css
+
+
+
+inline  css
+
+internal css
+
+external css
